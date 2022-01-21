@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 200px;
+    margin-left: 40px;
+ }
+ .gambar2{
+    width: 230px;
+    height: 100px;
+    margin: 10px;
+    border: 1px solid black; 
+    border-radius:10px;
+    background-image: url("img/sipak3");
+}
